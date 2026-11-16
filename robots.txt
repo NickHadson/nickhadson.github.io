@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /feedback/
+
+Sitemap: https://nickhadson.github.io/sitemap.xml
